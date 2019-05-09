@@ -1,2 +1,2 @@
 # Summer
-MRC
+Predicting Hypernym and hyponym
